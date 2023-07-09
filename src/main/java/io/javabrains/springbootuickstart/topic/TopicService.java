@@ -1,11 +1,10 @@
-package io.javabrains.springbootuickstart.helllo.topic;
+package io.javabrains.springbootuickstart.topic;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 @Service // All service classes are singleton

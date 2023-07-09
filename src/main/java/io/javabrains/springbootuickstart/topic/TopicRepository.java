@@ -1,4 +1,4 @@
-package io.javabrains.springbootuickstart.helllo.topic;
+package io.javabrains.springbootuickstart.topic;
 
 import org.springframework.data.repository.CrudRepository;
 
